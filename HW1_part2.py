@@ -17,4 +17,4 @@ semester_average = exam_mean(score1, score2, score3)
 print(f"\nThe Student's three exam scores: {score1}, {score2}, {score3}")
 print(f"The Student's mean exam score is: {semester_average:.2f}")
 
-sleep(10)
+var = input("Press enter to close the program")

@@ -4,13 +4,3 @@
 def exam_mean(a, b, c):
   mean = (a + b + c)/3
   return mean
-
-# Define the inputs
-exam1 = 92
-exam2 = 64
-exam3 = 88
-
-# Call the function
-student_avg = exam_mean(exam1, exam2, exam3)
-
-print('Exam Average:' student_avg)
